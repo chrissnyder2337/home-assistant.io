@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Installing Hass.io"
-description: "Instructions on how to install Hass.io."
+title: "Installing Hass.io with HassOS"
+description: "Instructions on how to install Hass.io using HassOS."
 date: 2017-04-30 13:28
 sidebar: true
 comments: false
@@ -9,7 +9,7 @@ sharing: true
 footer: true
 ---
 
-Hass.io images are available for:
+HassOS images are available for:
 
 - Download the appropriate image for your IoT:
   - [Raspberry Pi / Zero][pi1]
